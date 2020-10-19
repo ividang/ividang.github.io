@@ -1,4 +1,4 @@
-This is my first personal website built with HTML, CSS & JS
+This is my first personal website built with HTML, CSS & JS (link: https://ividang.github.io/)
 
 1. Home Page
 ![image info](./images/home-page.png)
